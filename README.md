@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...Instagram
 - 🤔 I’m looking for help with ...Open source contribution
 - 💬 Ask me about: Any Tech Related Stuff
-- 📫 How to reach me: sandeep2017iit@gmail.com
+- 📫 How to reach me: sandeep2017iit@gmail.com Twitter :https://twitter.com/imsandiip
 - 😄 Pronouns: ...He/ His
 - ⚡ Fun fact: ...I Listen Punjabi songs to learn Punjabi Language
 
