@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Sandeep is here! Welcome to my portfolio 👋
 
-<!--
-**Sandeep5484/Sandeep5484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...My Personal projects
+- 🌱 I’m currently learning ...Full Stack Web Development
+- 👯 I’m looking to collaborate on ...Instagram
+- 🤔 I’m looking for help with ...Open source contribution
+- 💬 Ask me about: Any Tech Related Stuff
+- 📫 How to reach me: sandeep2017iit@gmail.com
+- 😄 Pronouns: ...He/ His
+- ⚡ Fun fact: ...I Listen Punjabi songs to learn Punjabi Language
+
